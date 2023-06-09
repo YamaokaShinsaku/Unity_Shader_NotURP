@@ -1,0 +1,2 @@
+# Unity_Shader_NotURP
+Unityのシェーダーテストプロジェクト（URPを使用しない従来のシェーダー）
