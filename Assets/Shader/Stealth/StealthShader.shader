@@ -41,7 +41,8 @@ Shader "MyShader/StealthShader"
 
             sampler2D _MainTex;
             float4 _MainTex_ST;
-            sampler2D _GrabPassTexture; //GrabPassで保存されたテクスチャの格納先
+            //GrabPassで保存されたテクスチャの格納先
+            sampler2D _GrabPassTexture; 
             float _ShiftLevel;
             float _RimLevel;
             float4 _MixColor;
