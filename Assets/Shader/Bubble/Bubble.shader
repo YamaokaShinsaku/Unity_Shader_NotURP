@@ -22,6 +22,8 @@ Shader "MyShader/Bubble"
 
         Pass
         {
+            Name "Bubble"
+
             Blend SrcAlpha OneMinusSrcAlpha
 
             CGPROGRAM

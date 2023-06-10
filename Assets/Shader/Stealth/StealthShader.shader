@@ -15,6 +15,8 @@ Shader "MyShader/StealthShader"
 
         Pass
         {
+            Name "Stealth"
+
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag

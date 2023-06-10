@@ -24,6 +24,14 @@ Material:
         m_Texture: {fileID: 8900000, guid: 8a7037438b90d984cac6f62a97d19a05, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DDissolveTex:
+        m_Texture: {fileID: 2800000, guid: d6145688f765b6840a623975252938e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DTex:
         m_Texture: {fileID: 2800000, guid: 66aa25a481dbfd54289c4cb7d35613cb, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -38,8 +46,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DCutOff: 0
+    - _DWidth: 0.01
     - _F0: 0.75
+    - _RimLevel: 0.3
     - _RimLightIntensity: 1
+    - _ShiftLevel: 0.75
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MixColor: {r: 0, g: 1, b: 0.9910369, a: 1}
   m_BuildTextureStacks: []
