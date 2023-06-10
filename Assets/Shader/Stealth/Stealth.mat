@@ -22,8 +22,8 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _RimLevel: 0.26
-    - _ShiftLevel: 0.059
+    - _RimLevel: 0.3
+    - _ShiftLevel: 0.75
     m_Colors:
-    - _MixColor: {r: 0.8066038, g: 0.9928372, b: 1, a: 1}
+    - _MixColor: {r: 0.8066038, g: 0.99283713, b: 1, a: 1}
   m_BuildTextureStacks: []
