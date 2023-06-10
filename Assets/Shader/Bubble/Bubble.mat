@@ -21,24 +21,24 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _CubeMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 8900000, guid: 8a7037438b90d984cac6f62a97d19a05, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 66aa25a481dbfd54289c4cb7d35613cb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LETex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 0e7548873fb4e214fa93f7c1662c45e5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 3d72cb2f5ae90694b80282661b4010b7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _F0: 0.02
+    - _F0: 0.75
     - _RimLightIntensity: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
